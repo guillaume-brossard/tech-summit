@@ -1,0 +1,32 @@
+# Node default
+##############
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.lnk
+*.orig
+*.blob
+
+pids
+logs
+results
+
+# Components
+##############
+doc/
+build/
+node_modules/
+_web
+npm-debug.log
+
+
+# Project
+##############
+.idea/workspace.xml
+.idea/dictionaries/*
+.idea/scopes/scope_settings.xml
