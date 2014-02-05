@@ -1,1 +1,1 @@
-Simple repository to hold Tech Summit stuff.
+2013 Tech Summit stuff.
